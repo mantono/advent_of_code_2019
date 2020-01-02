@@ -1,4 +1,1 @@
-/target
-.idea
-**/*.rs.bk
-inputs
+**/input
